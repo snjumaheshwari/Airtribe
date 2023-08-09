@@ -12,6 +12,9 @@
 6. Intro To SQL 
 7. Normalization 
 
+https://docs.google.com/spreadsheets/d/1LXvrbOEA71tZWiUeRjRyoAHQElcRPIxI9MiN-sJ62MI/edit#gid=909848587
+
+
 #### Pre-requisites
 https://www.youtube.com/watch?v=UGu9unCW4PA&list=PL_c9BZzLwBRKn20DFbNeLAAbw4ZMTlZPH
 
