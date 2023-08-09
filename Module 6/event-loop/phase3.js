@@ -23,9 +23,9 @@ process.nextTick(function(){
     let current = Date.now();
     // 100 is in ms 
     while(Date.now() - current < 1000){
-
     } 
 })
+
 const timeOutScheduled = Date.now();
 setTimeout(function(){
     const delay = Date.now() - timeOutScheduled;
