@@ -1,4 +1,4 @@
-### Lecture:1 
+### Lecture:1 - Data Modeling-1
 1. What is data modelling? 
     - It is structure and architecht 
 2. Why Data Modelling is required? 
@@ -16,7 +16,8 @@
 * https://www.youtube.com/watch?v=xaWlS9HtWYw&list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN
 * https://www.youtube.com/watch?v=GFQaEYEc8_8 
 
-### Lecture: 2
+
+### Lecture: 2 -  Data Modeling-2
 1. Joins 
 2. Transactions 
 3. Challenge With Databases and their solutions 
