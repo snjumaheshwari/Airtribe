@@ -1,4 +1,4 @@
-### Lecture:1 - Data Modeling-1
+### Lecture: 1 - Data Modeling-1
 1. What is data modelling? 
     - It is structure and architecht 
 2. Why Data Modelling is required? 
@@ -11,13 +11,13 @@
 * Rough Work: https://docs.google.com/spreadsheets/d/1LXvrbOEA71tZWiUeRjRyoAHQElcRPIxI9MiN-sJ62MI/edit#gid=909848587
 
 
-##### Pre-requisites
+##### Pre-Requisites
 * https://www.youtube.com/watch?v=UGu9unCW4PA&list=PL_c9BZzLwBRKn20DFbNeLAAbw4ZMTlZPH
 * https://www.youtube.com/watch?v=xaWlS9HtWYw&list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN
 * https://www.youtube.com/watch?v=GFQaEYEc8_8 
 
 
-### Lecture: 2 -  Data Modeling-2
+### Lecture: 2 - Data Modeling-2
 1. Joins 
 2. Transactions 
 3. Challenge With Databases and their solutions 
@@ -28,7 +28,7 @@ The Notes for Lec 2 is not updated properly so, adding screenshots for missing s
 
 RoughWork: https://docs.google.com/spreadsheets/d/1TSzjYJEsv5WPri0_RIfGukNyv8Fxvjgj2XG-lixYWEY/edit#gid=1454917964  
 
-##### Pre-requisite
+##### Pre-Requisite
 * https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-a4.pdf
 * https://www.youtube.com/watch?v=9yeOJ0ZMUYw
 * https://www.youtube.com/watch?v=PflVscjNJ44
