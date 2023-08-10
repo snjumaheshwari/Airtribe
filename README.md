@@ -24,8 +24,8 @@
 
 
 ## Projects Covered:
-* 
-* 
+* TaskManagerApp
+* NewsAggregatorApp
 * RealTimeChatApp
 * BookMyShow
 
@@ -49,7 +49,8 @@
 * git config user.email snjumaheshwari@gmail.com
 
 
-### Comman Git command Used 
+## Comman Command Used: 
+### Git: 
 * git add .
 * git commit -m " commit message" 
 * git push 
@@ -57,3 +58,7 @@
 * git status 
 * git log
 * git config pull.rebase true 
+
+### Node:  
+* npm init 
+* node index.js 
