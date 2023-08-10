@@ -10,4 +10,11 @@ process.nextTick(function(){
 
 console.log("End");
 
-// OUTPUT: 
+/* OUTPUT: 
+
+Start 
+Inside for loop 
+End
+Inside the next Tick which is micro task
+
+*/

@@ -21,7 +21,7 @@ for(let i=0; i<100; ++i){
 process.nextTick(function(){
     console.log("Inside the next Tick which is micro task");
     let current = Date.now();
-    // 100 is in ms 
+    // 1000 is in ms. let this time = t 
     while(Date.now() - current < 1000){
     } 
 })
@@ -32,3 +32,15 @@ setTimeout(function(){
     console.log(`Inside the set timeout function and is executed with the delay ${delay}`);
 });
 console.log("End");
+
+/* OUTPUT: 
+
+Hello
+Start
+Inside for loop -- 100 times
+End
+server is listening to the port 3000
+Inside the next Tick which is micro task
+Inside the set timeout function and is executed with the delay { t / t+1 / t+2 }
+
+*/

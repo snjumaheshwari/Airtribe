@@ -5,6 +5,10 @@
 * Module 4
 * Module 5
 * Module 6
+    * Event Loop and Clustering
+        * event_loop: contains different problems related to what will be the output.
+    * Streams and Web Sockets 
+    * RealTimeChatApp : 
 * Module 7
     * Data Modeling 1
     * Data Modeling 2 
@@ -22,7 +26,7 @@
 ## Projects Covered:
 * 
 * 
-* RealTimeChatApp  -> in Module 6 
+* RealTimeChatApp
 * BookMyShow
 
 
@@ -45,3 +49,11 @@
 * git config user.email snjumaheshwari@gmail.com
 
 
+### Comman Git command Used 
+* git add .
+* git commit -m " commit message" 
+* git push 
+* git pull 
+* git status 
+* git log
+* git config pull.rebase true 

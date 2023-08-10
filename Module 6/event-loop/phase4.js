@@ -3,9 +3,6 @@ console.log("Hello ");
 for(let i=0; i<100; ++i){
     console.log("Inside for loop");
 }
-
-const TIME_WAIT = 1000;
-
 console.log("End");
 
 // microtask
@@ -17,11 +14,10 @@ Promise.resolve().then(() => {
 process.nextTick(function(){
     console.log("Inside the next Tick which is micro task");
     let current = Date.now();
-    // 100 is in ms 
+    const TIME_WAIT = 1000;
     while(Date.now() - current < TIME_WAIT){
     } 
 });
-
 
 // macrotask - check
 setImmediate(() => {
@@ -37,7 +33,7 @@ setTimeout(function(){
 }, 0);
 
 
-// macrotask -- timer
+// macrotask -- timer 
 setTimeout(function(){
     const delay = Date.now() - timeOutScheduled;
     console.log(`Inside the set timeout function and is executed with the delay ${delay}`);
@@ -46,3 +42,10 @@ setTimeout(function(){
 
 
 console.log("End");
+
+/* OUTPUT: 
+
+
+
+
+*/

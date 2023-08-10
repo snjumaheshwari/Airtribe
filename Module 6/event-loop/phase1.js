@@ -7,4 +7,10 @@ for(let i=0; i<100; ++i){
 console.log("End");
 
 
-// OUTPUT: 
+/* OUTPUT: 
+
+Start
+Inside for loop -- 100 times 
+End
+
+*/

@@ -1,1 +1,9 @@
 console.log("hello");
+
+
+/* OUTPUT: 
+
+
+
+
+*/

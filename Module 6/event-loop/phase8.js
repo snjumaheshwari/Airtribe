@@ -7,3 +7,10 @@ console.log("Hello");
 
 
 console.log("End");
+
+/* OUTPUT: 
+
+
+
+
+*/
