@@ -12,9 +12,10 @@ console.log("End");
 
 /* OUTPUT: 
 
-Start 
-Inside for loop 
-End
-Inside the next Tick which is micro task
+start 
+100 times inside for loop 
+end 
+inside the next tick which is micro task.
+
 
 */

@@ -7,10 +7,9 @@ for(let i=0; i<100; ++i){
 console.log("End");
 
 
-/* OUTPUT: 
-
-Start
-Inside for loop -- 100 times 
+/*
+OUTPUT: 
+Start 
+    100 times Inside for loop
 End
-
 */
