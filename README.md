@@ -13,6 +13,7 @@
     * Data Modeling 1
     * Data Modeling 2 
 * Module 8
+    * Book My Show
 * Module 9
 * Module 10
 * Module 11
@@ -62,3 +63,7 @@
 ### Node:  
 * npm init 
 * node index.js 
+
+
+ alias mysql=/usr/local/mysql/bin/mysq
+alias mysqladmin=/usr/local/mysql/bin/mysqladmin

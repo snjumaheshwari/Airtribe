@@ -1,7 +1,7 @@
 ## Brief
 Bookmyshow is a ticketing platform where you can book tickets for a movie show.
 
-As part of this assignment, we need to build API’s for the following feature. As a user, I can select any theatre in the city. On selecting the theatre, I should be able to see the dates of next 7 days.
+we need to build API’s for the following feature. As a user, I can select any theatre in the city. On selecting the theatre, I should be able to see the dates of next 7 days.
 
 I can click on any date and the page should load to give me all the movies in that theatre on that given date. Movies should contain details of all the showtimes.The image represents the feature described on the previous page.
 
@@ -15,3 +15,17 @@ You have noticed that even after indexing the columns the API speed isn’t unde
 
 Create an API to book seats for you and you friend for a given theatre and a show.
 
+
+Continuing with our Bookmyshow case study.
+
+Implement code for quick retrieval of static movie data - Name, Cast, Crew, Movie Plot, Runtime, Language, Genre, etc.  
+
+Build an endpoint for storing and retrieval of comments and ratings for a given movie. Which database would you choose and why? 
+
+Build an endpoint where one can search for movies and theatres. Refer image on the right.  
+
+Implement language (Hindi, English, Kannada, Telugu etc.) and genre (Romantic, Action, Scifi) and format (2D, 3D, IMAX) filters. 
+
+
+
+If for any scenario you are using MongoDB, ensure you are setting up things with the free tier of Cloud MongoDB Atlas.

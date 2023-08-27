@@ -53,8 +53,34 @@ find: findAll, findByPk, findOrCreate
 
 # Lecture 2: Data Modelling - 4 
 
+* Query Lifecycle
+* Slow Queries 
+* Optimising Performance at Database level using Indexing
+* Optimising Performance at ORM level
+* Optimising Performance at Application level using Caching
+* Redis 
 
-
+* How to execute a query is figured out for query optimaztion and execution plan. 
+* Use keyword EXPLAIN to see how the mysql optimizer will execute 
 
 # Additional Lecture: SQL Practice session with Dhaval Trivedi 
 
+
+
+Check question from slack channel sql-practice-2
+* Bookstore 
+
+Books 
+E-Books
+AudioBooks
+
+User
+Authors
+Customers 
+
+Order 
+
+13.232.152.242
+read_user
+password
+employees
