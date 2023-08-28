@@ -1,7 +1,7 @@
 
 * Module 6, 7 and 8 are completed. 
 
-1. Watch module 6 lecture 2
+1. Watch module 6 lecture 2 after 50 mins
 2. Create Realtime chat app.
 3. Create BookMyshow App. 
 4. Watch Module 9+ videos.
