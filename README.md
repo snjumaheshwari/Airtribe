@@ -65,5 +65,5 @@
 * node index.js 
 
 
- alias mysql=/usr/local/mysql/bin/mysq
+alias mysql=/usr/local/mysql/bin/mysq
 alias mysqladmin=/usr/local/mysql/bin/mysqladmin
