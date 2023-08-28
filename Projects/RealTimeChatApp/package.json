@@ -1,0 +1,14 @@
+{
+  "name": "realtimechatapp",
+  "version": "1.0.0",
+  "description": "* In this project, you will create a real-time chat application that allows multiple users to join chat rooms and communicate with each other. The application will be built using Node.js, Express.js, and Socket.IO for real-time communication.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

@@ -1,9 +1,7 @@
 
-* PUBLIC REPO: AIRTRIBE-WEBSOCKETS-STREAMS 
-
-## Lecture Notes:
-* Advance Node Js Concept
-* Stream, Buffer and WebSockets
+# PUBLIC REPO:
+6.1 https://github.com/snjumaheshwari/airtribe-bel-p1/tree/main/airtribe-event-loop/airtribe-event-loop/event-loop  
+6.2 https://github.com/snjumaheshwari/airtribe-bel-p1/tree/main/airtribe-websockets-streams 
 
 ## Resources: 
     * JavaScript Visualizer 9000:  https://www.jsv9000.app/ 
@@ -12,7 +10,9 @@
     * Real Time Chat Application 
 
 ## Self-Notes / Doubts / Question: 
-    
+
+* 6.1  Advance Node Js Concept 
+
 * Agenda - 
 
 - Understanding event loop
@@ -24,8 +24,9 @@
 - Clustering
 - Question and answers
 
-
 MacroQueue - Timer, IO, Check, Close 
+
+* 6.2 => Stream, Buffer and WebSockets
 
 * Polling - 1 way communication, client asks  server responds. 
 

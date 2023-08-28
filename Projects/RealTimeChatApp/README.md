@@ -35,3 +35,12 @@
 #### Feeling adventurous?
 
 * Implement end-to-end encryption for private messages. This means that messages should be encrypted on the sender's side and decrypted on the receiver's side, ensuring that even if the messages are intercepted during transmission, they cannot be read without the decryption key.
+
+
+
+
+
+
+Steps: 
+1. npm init 
+
