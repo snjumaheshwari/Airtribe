@@ -53,14 +53,6 @@ find: findAll, findByPk, findOrCreate
 
 # Lecture 2: Data Modelling - 4 
 
-<<<<<<< HEAD:Notes8.md
-* Query Lifecycle
-* Slow Queries 
-* Optimising Performance at Database level using Indexing
-* Optimising Performance at ORM level
-* Optimising Performance at Application level using Caching
-* Redis 
-=======
 - Perfromace is precurser of scalability 
 - Query Lifecycle - 
     - 
@@ -69,7 +61,6 @@ find: findAll, findByPk, findOrCreate
 
 
 
->>>>>>> cfc3351 (mod 8 lec2):Module 8/Notes.md
 
 * How to execute a query is figured out for query optimaztion and execution plan. 
 * Use keyword EXPLAIN to see how the mysql optimizer will execute 
