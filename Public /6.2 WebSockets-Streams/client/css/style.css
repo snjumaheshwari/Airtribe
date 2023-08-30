@@ -108,7 +108,7 @@ a {
 	padding: 30px;
 	max-height: 500px;
 	overflow-y: scroll;
-    background-image: url('../img/chat-bg.jpg');
+    /* background-image: url('../img/chat-bg.jpg'); */
     background-position: center;
     background-size: contain;
 }

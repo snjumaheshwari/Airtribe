@@ -1,6 +1,8 @@
 const users = []
 
 // Join user to the chart
+// each web socket have an id. 
+// whenever a client join, it will create a new connection .. 
 function newUser(id, username, room){
     const user = {id, username, room};
     users.push(user);
@@ -20,6 +22,9 @@ function exitRoom(id){
     }
 }
 
-function getActiveUser(id){
-    return users.find(user.filter(user => user.id == id));
-}
+// Get current user
+function getActiveUser(id) {
+    return users.find(user => user.id === id);
+  }
+
+module.exports = {newUser, getIndividualRoomUsers, exitRoom, getActiveUser};
